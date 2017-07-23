@@ -1,0 +1,91 @@
+Source	   : .Net SqlClient Data Provider
+Method	   : TryGetConnection
+DateTime	   : 24-07-2017 0:24:27
+Computer	   : DESKTOP-ID6THBD
+Error		   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+Stack Trace  : at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at BillGen.Class.CommonClass.ExecuteGetQuery(String _query) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Class\CommonClass.cs:line 48
+   at BillGen.Class.CommonClass.GetQuantityUnit() in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Class\CommonClass.cs:line 126
+   at BillGen.BG_DataHandler.ReadAllConfig() in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\BG_DataHandler.cs:line 233
+   at BillGen.BG_DataHandler..ctor() in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\BG_DataHandler.cs:line 66
+   at BillGen.MainWindow..ctor() in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\MainWindow.xaml.cs:line 51
+**-------------------------------------------------------------------**
+Source	   : mscorlib
+Method	   : ThrowArgumentOutOfRangeException
+DateTime	   : 24-07-2017 1:39:47
+Computer	   : DESKTOP-ID6THBD
+Error		   : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack Trace  : at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.Collection`1.System.Collections.IList.get_Item(Int32 index)
+   at BillGen.Client_Info.ManageClient.btnClientDelete_Click(Object sender, RoutedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Client Info\ManageClient.xaml.cs:line 59
+**-------------------------------------------------------------------**
+Source	   : mscorlib
+Method	   : ThrowArgumentOutOfRangeException
+DateTime	   : 24-07-2017 1:39:49
+Computer	   : DESKTOP-ID6THBD
+Error		   : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack Trace  : at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.Collection`1.System.Collections.IList.get_Item(Int32 index)
+   at BillGen.Client_Info.ManageClient.btnClientDelete_Click(Object sender, RoutedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Client Info\ManageClient.xaml.cs:line 59
+**-------------------------------------------------------------------**
+Source	   : PresentationFramework
+Method	   : CheckIsUsingInnerView
+DateTime	   : 24-07-2017 1:40:17
+Computer	   : DESKTOP-ID6THBD
+Error		   : Operation is not valid while ItemsSource is in use. Access and modify elements with ItemsControl.ItemsSource instead.
+Stack Trace  : at System.Windows.Controls.ItemCollection.CheckIsUsingInnerView()
+   at System.Windows.Controls.ItemCollection.Add(Object newItem)
+   at BillGen.Invoice.AddInvoice.FillCompany() in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 66
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBQty_TextChanged
+DateTime	   : 24-07-2017 1:40:18
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBQty_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 367
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBWeight_TextChanged
+DateTime	   : 24-07-2017 1:40:18
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBWeight_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 462
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBRate_TextChanged
+DateTime	   : 24-07-2017 1:40:18
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBRate_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 534
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBQty_TextChanged
+DateTime	   : 24-07-2017 1:40:19
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBQty_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 367
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBWeight_TextChanged
+DateTime	   : 24-07-2017 1:40:19
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBWeight_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 462
+**-------------------------------------------------------------------**
+Source	   : BillGen
+Method	   : txtBoxNBRate_TextChanged
+DateTime	   : 24-07-2017 1:40:19
+Computer	   : DESKTOP-ID6THBD
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.Invoice.AddInvoice.txtBoxNBRate_TextChanged(Object sender, TextChangedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\Invoice\AddInvoice.xaml.cs:line 534
+**-------------------------------------------------------------------**

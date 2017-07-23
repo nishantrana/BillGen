@@ -1,0 +1,2 @@
+Bank Name|Address|A/C Number| IFSC Code
+ICICI BANK|Mayur Vihar Phase 2|2222222222222|OCBD11234458

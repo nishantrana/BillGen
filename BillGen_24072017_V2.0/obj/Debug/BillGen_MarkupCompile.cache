@@ -1,0 +1,20 @@
+﻿BillGen
+
+
+winexe
+C#
+.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\
+BillGen
+none
+false
+DEBUG;TRACE
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\App.xaml
+12483033882
+8182289844
+28-941957716
+331805840651
+Client Info\AddClient.xaml;Bank Info\AddBank.xaml;Client Info\ManageClient.xaml;Client Info\UpdateClient.xaml;Company Info\About.xaml;Company Info\AddCompany.xaml;Company Info\ManageCompany.xaml;Company Info\UpdateCompany.xaml;Invoice\AddInvoice.xaml;MainWindow.xaml;Product Info\AddProduct.xaml;Product Info\ManageProduct.xaml;
+
+False
+

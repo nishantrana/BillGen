@@ -1,0 +1,10 @@
+Source	   : System.Core
+Method	   : Select
+DateTime	   : 24-Jan-15 7:33:56 PM
+Computer	   : Nik-PC
+Error		   : Value cannot be null.
+Parameter name: source
+Stack Trace  : at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at BillGen.MainWindow.GetClientNameList() in D:\Wappz.in\Bill_Generator_Win_App\BillGen_24012014\BillGen\BillGen\MainWindow.xaml.cs:line 87
+   at BillGen.MainWindow..ctor() in D:\Wappz.in\Bill_Generator_Win_App\BillGen_24012014\BillGen\BillGen\MainWindow.xaml.cs:line 65
+**-------------------------------------------------------------------**

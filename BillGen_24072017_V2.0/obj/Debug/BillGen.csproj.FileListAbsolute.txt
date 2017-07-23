@@ -1,0 +1,225 @@
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.csprojResolveAssemblyReference.cache
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\App.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\AddClient.baml
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\AddClient.g.cs
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.csprojResolveAssemblyReference.cache
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\AddClient.baml
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\AddClient.g.cs
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\App.g.cs
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.Design.pdb
+D:\StocksPulse_Project\Workfor\Bill Generator Win App\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen\BillGen\obj\Debug\BillGen_Content.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\BillGen.exe.manifest
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\BillGen.application
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.csprojResolveAssemblyReference.cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\AddClient.baml
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\AddClient.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\App.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen_Content.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.exe.manifest
+D:\Wappz.in\Bill Generator Win App\BillGen - 27102014\BillGen\BillGen\obj\Debug\BillGen.application
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\BillGen.exe.manifest
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\BillGen.application
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.csprojResolveAssemblyReference.cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\AddClient.baml
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\AddClient.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\App.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen_Content.g.cs
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.exe.manifest
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\obj\Debug\BillGen.application
+D:\Wappz.in\Bill Generator Win App\BillGen - 28102014\BillGen\BillGen\bin\Debug\InstallManager.dll
+D:\Wappz.in\Bill Generator Win App\BillGen - 17112014\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill Generator Win App\BillGen - 17112014\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill Generator Win App\BillGen - 17112014\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\EntityFramework.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\InstallManager.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\Newtonsoft.Json.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\Owin.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\System.Data.SQLite.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\EntityFramework.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\Newtonsoft.Json.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\bin\Debug\System.Data.SQLite.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\AddClient.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\App.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\AddClient.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\App.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen_Content.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\AddClient.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Bank Info\AddBank.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\ManageClient.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\UpdateClient.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\About.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Invoice\AddInvoice.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\MainWindow.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Product Info\AddProduct.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Product Info\ManageProduct.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\App.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\AddClient.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Bank Info\AddBank.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\ManageClient.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Client Info\UpdateClient.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\About.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\AddCompany.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\ManageCompany.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Invoice\AddInvoice.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\MainWindow.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Product Info\AddProduct.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Product Info\ManageProduct.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\App.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen_Content.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.cache
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen_MarkupCompile.lref
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.csprojResolveAssemblyReference.cache
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\BillGen.exe.config
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\BillGen.exe
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\BillGen.pdb
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\InstallManager.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\Newtonsoft.Json.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\Owin.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\System.Data.SqlServerCe.dll
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\Newtonsoft.Json.xml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\AddCompany.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\ManageCompany.baml
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.g.resources
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.Properties.Resources.resources
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.csproj.GenerateResource.Cache
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.exe
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\BillGen.pdb
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\bin\Debug\Database\dbBillGen.sdf
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\UpdateCompany.g.cs
+D:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_20032016\BillGen\BillGen\obj\Debug\Company Info\UpdateCompany.baml

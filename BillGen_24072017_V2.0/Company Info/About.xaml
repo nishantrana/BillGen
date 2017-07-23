@@ -1,0 +1,21 @@
+﻿<Window x:Class="BillGen.Company_Info.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="400" Width="400">
+    <Grid>
+        <StackPanel Grid.Column="1" x:Name="spWelcomeScreen" Width="390" Height="390" Background="#FFF7631D" OpacityMask="#FFF70000" Visibility="Visible" HorizontalAlignment="Stretch" Margin="0,0,0,0">
+            <Label Content="WELCOME TO THE BILL GENERATOR 2.0" Margin="0,0,0,15" VerticalAlignment="Top" Background="#FFB20101" Foreground="White" FontWeight="Bold" FontSize="17" Width="390" Padding="20,5,5,5" HorizontalAlignment="Center"/>
+            <Label Content="A PRODUCT FOR  ANKIT IMPEX" Margin="20,0,0,-4" FontSize="25px" HorizontalAlignment="Center"/>
+            <Label Content="By WAPPZ" Margin="20,0,0,-4" FontSize="15px" HorizontalAlignment="Center"/>
+            <Canvas Name="Contact" Width="390" Height="170" Margin="0,45,0,0" Background="#FFCB1515">
+                <Label Content="ABOUT" HorizontalAlignment="Center" FontSize="15" Margin="30,5,0,0"/>
+                <Label Content="BillGen is a bill generator and help to reduce the papaer work." HorizontalAlignment="Center" Margin="40,30,0,0"></Label>
+                <Label Content="CONTACT" HorizontalAlignment="Center" FontSize="15" Margin="30,65,0,0"/>
+                <Label Content="Nikunj Nareda : nikunjnareda@gmail.com" HorizontalAlignment="Center" Margin="40,90,0,0"/>
+                <Label Content="Nishant Rana   : nishant.rana25@gmail.com" HorizontalAlignment="Center" Margin="40,110,0,0"/>
+                <TextBlock Text=" For more info : " FontWeight="Bold" FontSize="15" HorizontalAlignment="Center" Margin="40,140,0,0">
+                    <Hyperlink NavigateUri="http://www.wappz.in" RequestNavigate="Hyperlink_RequestNavigate" Foreground="#FF002121">www.wappz.in</Hyperlink></TextBlock>
+            </Canvas>
+        </StackPanel>
+    </Grid>
+</Window>

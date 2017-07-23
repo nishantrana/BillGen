@@ -1,0 +1,63 @@
+﻿<Window x:Class="BillGen.CompanyInfo.UpdateCompany"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BillGen.CompanyInfo"
+        mc:Ignorable="d"
+        Title="Update Company Info" Height="675" Width="328">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Company Name" Height="28" HorizontalAlignment="Left" Name="lblCompany" VerticalAlignment="Top" Margin="15.639,8.759,0,0" />
+        <ComboBox Height="20" Width="150px" Margin="121.673,13.759,20.326,0" Name="CmbBoxCompanyName" VerticalAlignment="Top" SelectionChanged="CmbBoxCompanyName_SelectionChanged" />
+
+        <Label Content="GSTIN No." Height="28" Margin="15.639,45.915,0,0" HorizontalAlignment="Left" Name="lblGSTIN" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="121.673,48.759,20.326,0" Name="txtBoxGSTIN" VerticalAlignment="Top" />
+
+        <Label Content="Address" Height="28" Margin="15.639,80.759,0,0" HorizontalAlignment="Left" Name="lblAddress" VerticalAlignment="Top" />
+        <TextBox Height="65" Width="150px" Margin="121.673,85.759,20.326,0" Name="txtBoxAddress" VerticalAlignment="Top" />
+
+        <Label Content="Country" Height="28" Margin="16,164,0,0" HorizontalAlignment="Left" Name="lblCountry" VerticalAlignment="Top" />
+        <ComboBox Height="20" Width="150px" Margin="122,165,20,0" Name="CmbBoxCountry" VerticalAlignment="Top" SelectionChanged="CmbBoxCountry_SelectionChanged" />
+
+        <Label Content="State" Height="28" Margin="16,191,0,0" HorizontalAlignment="Left" Name="lblState" VerticalAlignment="Top" />
+        <ComboBox Height="20" Width="150px" Margin="122,198,20,0" Name="CmbBoxState" VerticalAlignment="Top" SelectionChanged="CmbBoxState_SelectionChanged" />
+
+        <Label Content="City" Height="28" Margin="16,228,0,0" HorizontalAlignment="Left" x:Name="lblCity" VerticalAlignment="Top" />
+        <ComboBox Height="20" Width="150px" Margin="122,231,20,0" x:Name="CmbBoxCity" VerticalAlignment="Top" />
+
+        <Label Content="PIN" Height="28" Margin="16,264,0,0" HorizontalAlignment="Left" Name="lblPIN" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="122,267,20,0" Name="txtBoxPIN" VerticalAlignment="Top" />
+
+        <Label Content="Email" Height="28" Margin="16,297,0,0" HorizontalAlignment="Left" Name="lblEmail" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="122,300,20,0" Name="txtBoxEmail" VerticalAlignment="Top" />
+
+        <Label Content="Website" Height="28" Margin="16,332,0,0" HorizontalAlignment="Left" Name="lblWebsite" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="122,335,20,0" Name="txtBoxWebsite" VerticalAlignment="Top" />
+
+        <Label Content="Mobile No. 1" Height="28" Margin="16,367,0,0" HorizontalAlignment="Left" x:Name="lblMobileNo1" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="122,371,20,0" x:Name="txtBoxMobileNo1" VerticalAlignment="Top" />
+
+        <Label Content="Mobile No. 2" Height="28" Margin="16,402,0,0" HorizontalAlignment="Left" x:Name="lblMobileNo2" VerticalAlignment="Top" />
+        <TextBox Height="20" Width="150px" Margin="122,405,20,0" x:Name="txtBoxMobileNo2" VerticalAlignment="Top" />
+
+        <Label Content="Mobile No. 3" Height="28" Margin="16,436,0,0" HorizontalAlignment="Left" x:Name="lblMobileNo3" VerticalAlignment="Top"></Label>
+        <TextBox Height="20" Width="150px" Margin="122,440,20,0" x:Name="txtBoxMobileNo3" VerticalAlignment="Top" />
+
+        <Label Content="Additional Info" Height="28" Margin="16,471,0,0" HorizontalAlignment="Left" Name="lblAdditionalInfo" VerticalAlignment="Top" />
+        <TextBox Height="50" Width="150px" Margin="132,471,30,0" Tag="Additional Info like Company Tag Line" Name="txtBoxAdditionalInfo" TextWrapping="Wrap" VerticalAlignment="Top" />
+
+        <Label Content="GLogo" Height="28" Margin="16,535,0,0" HorizontalAlignment="Left" Name="lblLogoUpload" VerticalAlignment="Top" RenderTransformOrigin="0.68,1.481" />
+        <TextBox Height="20" Margin="132,540,53,0" x:Name="txtBoxGLogo" VerticalAlignment="Top" />
+        <Button Height="23" Content="..." Width="18px" Margin="264,540,30,0" Name="BtnUploadGLogo" VerticalAlignment="Top" />
+
+        <Label Content="Company Logo" Height="28" Margin="16,575,0,0" HorizontalAlignment="Left" Name="lblCLogoUpload" VerticalAlignment="Top" RenderTransformOrigin="0.68,1.481" />
+        <TextBox Height="20" Margin="132,579,53,0" x:Name="txtBoxCompanyLogo" VerticalAlignment="Top" />
+        <Button Height="23" Content="..." Width="18px" Margin="264,576,30,0" Name="BtnUploadCompanyLogo" VerticalAlignment="Top" />
+
+        <Button Height="23" Content="Update" Width="70px" Margin="122,611,100,0" Name="BtnSave" VerticalAlignment="Top" Click="BtnSave_Click" />
+        <Button Height="23" Content="Clear" Width="70px" Margin="212,611,30,0" x:Name="BtnClear" VerticalAlignment="Top" Click="BtnClear_Click" />
+    </Grid>
+</Window>

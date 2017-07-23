@@ -1,0 +1,61 @@
+﻿<Window x:Class="BillGen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BillGen - Generate / Manage Your Bills (V 2.0)" Height="677" Width="1150" 
+        ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" 
+        WindowStyle="SingleBorderWindow" Visibility="Visible" Background="AliceBlue" 
+        Icon="/BillGen;component/bin/Release/Logo/2.ico" ShowInTaskbar="True">
+    <Window.Resources></Window.Resources>
+    <Grid Width="1140" Height="635" Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+       </Grid.RowDefinitions>
+        <Menu x:Name="menu" Height="20" Width="1140" Grid.Row="0" Grid.ColumnSpan="3" VerticalAlignment="Top" Margin="0,0,0,0">
+                <MenuItem Header="_New" Click="btnBill_Click"/>
+                <MenuItem Header="_Tool">
+                    <MenuItem Header="_Backup Data"/>
+                    <MenuItem Header="_Restore Data"/>
+                </MenuItem>
+                <MenuItem Header="_Settings">
+                    <MenuItem Header="_Company Details" Click="btnManageCompany_Click"/>
+                    <MenuItem Header="_Client Details" Click="btnClients_Click"/>
+                    <MenuItem Header="_Bank Details" Click="btnBankDetail_Click"/>                    
+                </MenuItem>
+                <MenuItem Name="mnExit" Header="_Exit" Click="mnExit_Click_1"/>
+            </Menu>
+        
+        <StackPanel Height="615" Margin="0,0,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.Column="0">
+            <Label x:Name="lblBills" Height="40" Width="180" FontWeight="Medium" FontSize="20" HorizontalContentAlignment="Left" Content="Manage Bills" Margin="0,0,0,0" />
+            <Button x:Name="btnViewBill" Height="50" Width="110" Content="&gt; View Bills" FontSize="17" Margin="100,25,0,0" ToolTip="View Bills" Click="btnViewBill_Click" HorizontalContentAlignment="Left" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Foreground="Black" Background="{x:Null}" BorderBrush="{x:Null}" BorderThickness="4,1,1,1" />
+            <Button x:Name="btnNewBill" Height="60" Width="180" Content="New Bill" FontSize="35" Margin="0,10,0,0" ToolTip="Generate New/Modify Bill" Click="btnBill_Click" HorizontalAlignment="Center" VerticalAlignment="Center" BorderThickness="4,1,1,1"/>
+        </StackPanel>
+        <StackPanel Height="600" VerticalAlignment="Top" Grid.Row="1" Grid.Column="1">
+            <Label x:Name="lblSettings" FontWeight="Medium" Height="40" Width="140" FontSize="22" HorizontalContentAlignment="Left" Content="Settings" Margin="0,0,0,0" />
+            
+            <Button x:Name="btnManageCompany" Height="40" Width="180" Margin="20,25,0,0" HorizontalContentAlignment="Stretch" Grid.Column="0" FontSize="17" ToolTip="Edit Company" Content="&gt; Manage Companies" VerticalAlignment="Center" HorizontalAlignment="Center" Click="btnManageCompany_Click" IsDefault="False" Foreground="Black" Background="{x:Null}" BorderBrush="{x:Null}" BorderThickness="4,1,1,1" />
+            <Button x:Name="btnBankDetail" Height="40" Width="180" HorizontalContentAlignment="Left" Grid.Column="0" FontSize="17" ToolTip="Modify Bank Details" Content="&gt; Manage Bank Details" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" Margin="20,0,0,0" Click="btnBankDetail_Click" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" BorderThickness="4,1,1,1" />
+            <Button x:Name="btnClients" Height="40" Width="180" HorizontalContentAlignment="Left" FontSize="17" Grid.Column="0" ToolTip="Manage Clients" Content="&gt; Manage Clients" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Margin="20,0,0,0" HorizontalAlignment="Center" Click="btnClients_Click" Foreground="Black" BorderBrush="{x:Null}" Background="{x:Null}" BorderThickness="4,1,1,1" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" x:Name="spWelcomeScreen" Width="1125" Height="300" Background="#FFF7631D" OpacityMask="#FFF70000" Visibility="Visible" HorizontalAlignment="Center" Margin="-5,0,0,0">
+            <Label Content="WELCOME TO THE BILL GENERATOR (V 2.0)" Margin="0,0,0,15" VerticalAlignment="Top" Background="#FFB20101" Foreground="White" FontWeight="Bold" FontSize="18" Width="1139" Padding="20,5,5,5" HorizontalAlignment="Center"/>
+            <Label Content="A PRODUCT FOR  ANKIT IMPEX" Margin="-600,70,0,-4" FontSize="25px" HorizontalAlignment="Center"/>
+            <Label Content="By WAPPZ" Margin="-600,0,0,-4" FontSize="18px" HorizontalAlignment="Center"/>
+            <Canvas Name="Contact" Width="550" Height="190" Margin="400,-100,0,0" Background="#FFCB1515">
+                <Label Content="ABOUT" HorizontalAlignment="Center" FontSize="19" Margin="30,5,0,0" Foreground="White"/>
+                <Label Content="BillGen is a bill generator and help to reduce the paper work." FontSize="18" Foreground="White" HorizontalAlignment="Center" Margin="40,30,0,0"></Label>
+                <Label Content="CONTACT" HorizontalAlignment="Center" FontSize="19" Margin="30,65,0,0" Foreground="White"/>
+                <Label Content="Nikunj Nareda : nikunjnareda@gmail.com" FontSize="18" HorizontalAlignment="Center" Foreground="White" Margin="40,90,0,0"/>
+                <Label Content="Nishant Rana   : nishant.rana25@gmail.com" FontSize="18" HorizontalAlignment="Center" Foreground="White" Margin="40,110,0,0"/>
+                <TextBlock Text=" For more info : " FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Foreground="White" Margin="40,150,0,0">Want to know more about me <Hyperlink NavigateUri="http://nishantrana.strikingly.com/" RequestNavigate="Hyperlink_RequestNavigate" Foreground="Aqua">Click Here</Hyperlink></TextBlock>
+            </Canvas>
+        </StackPanel>
+        </Grid>
+</Window>

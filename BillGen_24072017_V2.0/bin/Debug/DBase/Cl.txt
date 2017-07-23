@@ -1,0 +1,6 @@
+Client Name|Address|TIN Number
+ANKIT|Chennai|CBD1123456789
+Nishant|Chennai|CBD1123445784 Nikunj
+Vikrant Rana|Bijnor|222222222222
+Avnish|Dehradun|124587963
+nikunj|Pitampura|125478963

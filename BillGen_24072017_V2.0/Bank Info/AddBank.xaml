@@ -1,0 +1,36 @@
+﻿<Window x:Class="BillGen.BankInfo.AddBank"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="BillGen.BankInfo"
+        mc:Ignorable="d"
+        Title="Add Bank" Height="400" Width="330">
+    <Grid>
+        <Label Content="Company" Height="28" FontSize="14" Margin="15.639,8.759,0,0" HorizontalAlignment="Left" x:Name="lblCompany" VerticalAlignment="Top" />
+        <ComboBox Height="23" Width="150px" Margin="121.673,13.759,20.326,0" x:Name="CmbBoxCompany" VerticalAlignment="Top" SelectionChanged="CmbBoxCompany_SelectionChanged" />
+
+        <Label Content="Bank Name" Height="28" FontSize="14" HorizontalAlignment="Left" x:Name="lblBankName" VerticalAlignment="Top" Margin="16,43,0,0" />
+        <TextBox Height="23" Width="150px" Margin="122,46,20,0" x:Name="txtBoxBankName" VerticalAlignment="Top" />
+
+        <Label Content="Address" Height="28" FontSize="14" Margin="16,70,0,0" HorizontalAlignment="Left" x:Name="lblAddress" VerticalAlignment="Top" />
+        <TextBox Height="65" Width="150px" Margin="122,80,20,0" x:Name="txtBoxAddress" VerticalAlignment="Top" />
+
+        <Label Content="Country" Height="28" FontSize="14" Margin="16,148,0,0" HorizontalAlignment="Left" x:Name="lblCountry" VerticalAlignment="Top" />
+        <ComboBox Height="23" Width="150px" Margin="122,155,20,0" x:Name="CmbBoxCountry" VerticalAlignment="Top" SelectionChanged="CmbBoxCountry_SelectionChanged" />
+
+        <Label Content="State" Height="28" FontSize="14" Margin="16,175,0,0" HorizontalAlignment="Left" x:Name="lblState" VerticalAlignment="Top" />
+        <ComboBox Height="23" Width="150px" Margin="122,183,20,0" x:Name="CmbBoxState" VerticalAlignment="Top" SelectionChanged="CmbBoxState_SelectionChanged" />
+
+        <Label Content="City" Height="28" FontSize="14" Margin="16,211,0,0" HorizontalAlignment="Left" x:Name="lblCity" VerticalAlignment="Top" />
+        <ComboBox Height="23" Width="150px" Margin="122,214,20,0" x:Name="CmbBoxCity" VerticalAlignment="Top" SelectionChanged="CmbBoxCity_SelectionChanged" />
+
+        <Label Content="Account Number" Height="28" FontSize="14" Margin="16,242,0,0" HorizontalAlignment="Left" x:Name="lblAccount" VerticalAlignment="Top" />
+        <TextBox Height="23" Width="150px" Margin="122,247,20,0" x:Name="txtBoxAccount" VerticalAlignment="Top" />
+
+        <Label Content="IFSC" Height="28" FontSize="14" Margin="16,272,0,0" HorizontalAlignment="Left" x:Name="lblIFSC" VerticalAlignment="Top" />
+        <TextBox Height="23" Width="150px" Margin="122,277,20,0" x:Name="txtBoxIFSC" VerticalAlignment="Top" />
+        
+        <Button Height="24" Content="Save" Width="70px" Margin="122,313,100,0" x:Name="BtnSave" VerticalAlignment="Top" Click="BtnSave_Click" />
+    </Grid>
+</Window>

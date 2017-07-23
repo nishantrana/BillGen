@@ -1,0 +1,23 @@
+﻿<Window x:Class="BillGen.CompanyInfo.ManageCompany"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Manage Company" Height="535" Width="1040">
+    <Grid>
+        <StackPanel Grid.Column="1" Width="1039" x:Name="spClientDetail" Background="#FFF7631D" OpacityMask="#FFF70000" Margin="0,0,0,0" Visibility="Visible">
+            <Label Content="COMPANY DETAIL" Margin="0,0,0,-15" VerticalAlignment="Top" Background="#FFB20101" Foreground="White" FontWeight="Bold" FontSize="17" Width="1040" Padding="20,5,5,5" HorizontalAlignment="Center"/>
+            <ListView x:Name="lstViewCompanyNames" Height="400" FontSize="15" Margin="0,16,0,0" SelectionMode="Single">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Id" Width="50" DisplayMemberBinding="{Binding cId}"></GridViewColumn>
+                        <GridViewColumn Header="Name" Width="220" DisplayMemberBinding="{Binding cName}"></GridViewColumn>
+                        <GridViewColumn Header="GSTIN" Width="200" DisplayMemberBinding="{Binding cGSTIN}"></GridViewColumn>
+                        <GridViewColumn Header="Address" Width="280" DisplayMemberBinding="{Binding cAddress}"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button x:Name="btnCompanyAdd" Height="40" Width="100" FontSize="17" Grid.Column="1" ToolTip="Add Company" Content="ADD NEW" HorizontalAlignment="Left" Margin="605,15,0,0" Click="btnCompanyAdd_Click" />
+            <Button x:Name="btnCompanyUpdate" Height="40" Width="100" FontSize="17" Grid.Column="1" ToolTip="Update Company" Content="UPDATE" HorizontalAlignment="Left" Margin="755,-40,0,0" Click="btnCompanyUpdate_Click" />
+            <Button x:Name="btnCompanyDelete" Height="40" Width="100" FontSize="17" Grid.Column="1" ToolTip="Delete Company" Content="DELETE" HorizontalAlignment="Left" Margin="910,-40,0,0" Click="btnCompanyDelete_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

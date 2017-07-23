@@ -1,0 +1,7 @@
+Source	   : BillGen
+Method	   : btnCompany1_Click
+DateTime	   : 20-03-2016 01:42:28
+Computer	   : Nik-PC
+Error		   : Object reference not set to an instance of an object.
+Stack Trace  : at BillGen.MainWindow.btnCompany1_Click(Object sender, RoutedEventArgs e) in d:\Wappz.in\Bill_Generator_Win_App\BillGen_2.0_22102015\BillGen\BillGen\MainWindow.xaml.cs:line 1187
+**-------------------------------------------------------------------**
